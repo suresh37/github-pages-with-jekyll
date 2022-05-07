@@ -11,3 +11,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+Your blog is now live and has been deployed here: https://suresh37.github.io/github-pages-with-jekyll/
